@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ureshalakshani
+Build-Jdk: 12.0.1
+Implementation-Title: PAF
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.PafProject
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/PAF
+Created-By: Maven Integration for Eclipse
+
